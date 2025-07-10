@@ -13,6 +13,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## Las estadisticas del repositorio
+## Stats
 ![Josememo02' GitHub stats](https://github-readme-stats.vercel.app/api?username=Josememo02&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josememo02&layout=compact&theme=dark)
