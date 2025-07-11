@@ -6,23 +6,14 @@
 
 ### ⚡Technologies & Tools 🔧
 #### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Scilab-%23CD1925?style=for-the-badge&logo=Scilab)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-## Stats
+## Stats 📈
 ![Josememo02' GitHub stats](https://github-readme-stats.vercel.app/api?username=Josememo02&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josememo02&layout=compact&theme=dark)
-
- <td colspan="2" align="center">
-      <details open> <summary> Full year calendar</summary><img src="https://github.com/Josememo02/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/Josememo02/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-
 
